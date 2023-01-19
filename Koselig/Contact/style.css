@@ -543,7 +543,7 @@ form button {
         z-index: 3;
     }
 
-    ul {
+    nav__ul {
         position: absolute;
         z-index: 2;
         width: 100%;
@@ -573,5 +573,9 @@ form button {
     #check:checked~ul {
         top: 0;
         left: 0;
+    }
+
+    .write{
+        height: 2rem;
     }
 }
