@@ -533,7 +533,7 @@
 
  @media (max-width: 1028px) {
     .tab-p{
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
      .image-intro {
          height: 69rem;
@@ -597,6 +597,10 @@
 
      .col {
          margin-top: 3rem;
+     }
+
+     .operations__header{
+        font-size: 2rem !important;
      }
  }
 
