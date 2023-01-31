@@ -7,3 +7,5 @@
 # Bhumi Agrawal
 # Vedant Surti
 # Param Shah
+
+#Link to Website: https://vedantsurti.github.io/The-Comp-Whizzkids/
